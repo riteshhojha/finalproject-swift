@@ -3,6 +3,10 @@
 ## Overview
 NearGO helps you discover fun events happening nearby using location-based event APIs.
 
+# Video walkthrough
+
+https://www.loom.com/share/dddf1f27527d4344b1fd901ce7aa2da6?sid=938ea4c7-6bb8-4cf8-a5b0-37c0095647cd
+
 ## Screens
 - Home screen with nearby events
 - Event detail screen
